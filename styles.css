@@ -17,6 +17,10 @@
       color: #2a2b2c;
       background-color: #ebedee;
     }
+    .Q {
+      display: none;
+      visibility: hidden;
+    }
     .lnk {
       margin: 0 .375rem 0 0;
     }
